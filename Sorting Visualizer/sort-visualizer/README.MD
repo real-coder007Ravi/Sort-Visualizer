@@ -4,7 +4,7 @@ This is a web application built using HTML, CSS, Javascript to visualize classic
 
 **Live-** [sorting visualizer](file:///C:/Users/hp/OneDrive/Desktop/Resume%20Related%20Stuff/Sorting%20Visualizer/sort-visualizer/index.html) 
 
-**Code-** [sort visualizer code](https://github.com/dharshakch97/sort-visualizer)
+
 
 ## Purpose
 

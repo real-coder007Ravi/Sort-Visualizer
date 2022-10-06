@@ -2,9 +2,9 @@
 
 This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick 
 
-**Live-** [sorting visualizer](file:///C:/Users/hp/OneDrive/Desktop/Resume%20Related%20Stuff/Sorting%20Visualizer/sort-visualizer/index.html) 
 
 
+https://illustrious-truffle-bc3140.netlify.app/
 
 ## Purpose
 
